@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aboutme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BMICalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InsurancePremiumCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/car_loan_calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mylike" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/observer" vcs="Git" />
+  </component>
+</project>
